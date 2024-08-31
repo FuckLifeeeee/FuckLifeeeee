@@ -1,4 +1,4 @@
-### Privacy Policy
+### 
 
 Effective time：2024-08-02   
 Update    time：2024-08-02

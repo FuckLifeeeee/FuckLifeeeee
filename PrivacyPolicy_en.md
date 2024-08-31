@@ -1,4 +1,4 @@
-### Privacy Policy
+### 
 
 effect time：2024-07-15  
 update time：2024-07-15  

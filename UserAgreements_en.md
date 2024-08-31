@@ -1,4 +1,4 @@
-### User Agreement
+### 
 
 Welcome to trust and use KnowsNote APP. The author himself enjoys the ownership and operation rights of this application, hereinafter referred to as "this application" or "we". Please read the following terms carefully. The use of all services of this application will be deemed as your agreement to the following terms of use.
 

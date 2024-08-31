@@ -1,4 +1,4 @@
-#### 知拾工坊-隐私政策
+## 知拾工坊-隐私政策
 
 
 [知拾笔记](https://knowledgecollector.github.io/KnowledgeCollector/CN_A.html)

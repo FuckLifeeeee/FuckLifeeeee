@@ -33,7 +33,7 @@ If we decide to change our privacy policy, we will post these changes in this po
 
 #### How to Contact Us
 
-If you have any objections to this privacy policy, you can contact our customer service email ketianzang@gmail.com contact us.
+If you have any objections to this privacy policy, you can contact our customer service email ketianzang@gmail.com.
 
 
 

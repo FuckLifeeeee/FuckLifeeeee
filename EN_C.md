@@ -11,11 +11,15 @@ OnlyWrite is a minimalist style writing application with extremely fast startup 
 
 This application attaches great importance to user privacy policies and strictly abides by relevant legal regulations. Please read the Privacy Policy carefully before continuing to use it. If you continue to use our services, it means that you have fully read and understood all the contents of our agreement.
 
-##### Privacy information and application permissions
+##### Apply for permission:
 
 * 1.When saving and backing up an article, you need to authorize the file and read multimedia file permissions
 * 2.When you rotate your phone, you need to use the device's gyroscope sensor and accelerometer to obtain the direction of your phone.
 * 3.When copying and pasting articles, you need to read and write your clipboard.
+
+##### Third party SDK used：
+
+* BmobSDK:The mobile cloud service platform provides backend interfaces and data services，[Privacy Policy](https://www.bmob.cn/privacy)。
 
 #### Privacy Policy Change
 

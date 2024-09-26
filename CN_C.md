@@ -19,7 +19,7 @@
 
 ##### 使用的第三方SDK：
 
-* BmobSDK:移动云服务平台提供后端接口和数据服务，[隐私政策](https://www.bmob.cn/privacy)。
+* BmobSDK:移动云服务平台提供后端接口和数据服务，[隐私政策](https://www.bmobapp.com/privacy)。
 
 #### 隐私政策更改
 

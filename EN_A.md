@@ -25,7 +25,7 @@ This application takes user privacy policies very seriously and strictly adheres
 
 ##### Third party SDK used：
 
-* BmobSDK:The mobile cloud service platform provides backend interfaces and data services，[Privacy Policy](https://www.bmob.cn/privacy)。
+* BmobSDK:The mobile cloud service platform provides backend interfaces and data services，[Privacy Policy](https://www.bmobapp.com/privacy)。
 
 #### Privacy Policy Change
 

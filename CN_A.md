@@ -26,7 +26,7 @@
 
 ##### 使用的第三方SDK：
 
-* BmobSDK:移动云服务平台提供后端接口和数据服务，[隐私政策](https://www.bmob.cn/privacy)。
+* BmobSDK:移动云服务平台提供后端接口和数据服务，[隐私政策](https://www.bmobapp.com/privacy)。
 * BuglySDK:移动开发者服务平台提供Crash监控、崩溃分析等质量跟踪服务，[隐私政策](https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56)。
 
 #### 隐私政策更改
